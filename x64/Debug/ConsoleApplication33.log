@@ -1,0 +1,47 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SP Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  FileName.cpp
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(19,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(19,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(30,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(33,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(36,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(39,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(62,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(62,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,78): warning C4244:         with
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,78): warning C4244:         [
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,78): warning C4244:             T=int
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,78): warning C4244:         ]
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,78): warning C4244:         and
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,78): warning C4244:         [
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,78): warning C4244:             T=float
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,78): warning C4244:         ]
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,66): warning C4244:         with
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,66): warning C4244:         [
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,66): warning C4244:             T=int
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,66): warning C4244:         ]
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,66): warning C4244:         and
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,66): warning C4244:         [
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,66): warning C4244:             T=float
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(91,66): warning C4244:         ]
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,77): warning C4244:         with
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,77): warning C4244:         [
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,77): warning C4244:             T=int
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,77): warning C4244:         ]
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,77): warning C4244:         and
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,77): warning C4244:         [
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,77): warning C4244:             T=float
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,77): warning C4244:         ]
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,65): warning C4244:         with
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,65): warning C4244:         [
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,65): warning C4244:             T=int
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,65): warning C4244:         ]
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,65): warning C4244:         and
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,65): warning C4244:         [
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,65): warning C4244:             T=float
+C:\Users\sohas\source\repos\ConsoleApplication33\FileName.cpp(95,65): warning C4244:         ]
+  ConsoleApplication33.vcxproj -> C:\Users\sohas\source\repos\ConsoleApplication33\x64\Debug\spProject.exe
